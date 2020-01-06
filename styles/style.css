@@ -44,6 +44,9 @@ button {
 
 .nav a{
     margin-left: 16px;
+
+    text-decoration: none;
+    color: white;
 }
 
 figcaption {
