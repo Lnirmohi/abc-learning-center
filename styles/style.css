@@ -6,14 +6,21 @@
     letter-spacing: 1.3px;
 }
 
+main {
+    padding: 60px 130px;
+}
+
 button {
     border: none;
 }
 
-.header-footer-padding {
-    padding: 50px 130px 0;
+.header-padding {
+    padding: 90px 130px 0;
 }
 
+.footer-padding {
+    padding: 50px 130px 0;
+}
 .header-footer-dim {
     height: 140px;
     width: 100%;
