@@ -1,0 +1,58 @@
+a,
+a:visited {
+    color: inherit;
+
+    text-decoration: none;
+}
+
+.sitemap-heading {
+    display: inline-block;
+
+    padding-bottom: 12px;
+    border-bottom: 3px solid #182630;
+    margin-bottom: 40px;
+
+    font-size: 34px;
+    font-weight: 900;
+}
+
+.sitemap-container {
+    padding: 55px;
+
+    background: #D6DFE5;
+}
+
+.main-heading {
+    list-style: none;
+
+    margin-bottom: 30px;
+
+    color: #1A0DB9;
+
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.content-heading {
+    list-style: disc;
+
+    margin-left: 80px;
+    margin-bottom: 12px;
+
+    font-size: 18px;
+    font-size: 500;
+
+    color: #9DA5A8;
+}
+
+.content-child {
+    margin-bottom: 16px;
+}
+
+.content-child li {
+    margin-left: 100px;
+
+    color: #3C7CC0;
+
+    list-style: circle;
+}
