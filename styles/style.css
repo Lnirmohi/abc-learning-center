@@ -49,6 +49,12 @@ button {
     line-height: 18px;
 }
 
+.logo a {
+    color: white;
+    
+    text-decoration: none;
+}
+
 .nav a{
     margin-left: 16px;
 
