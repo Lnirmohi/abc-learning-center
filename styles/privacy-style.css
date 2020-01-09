@@ -1,0 +1,27 @@
+.privacy-heading {
+    display: inline-block;
+
+    padding-bottom: 12px;
+    border-bottom: 3px solid #182630;
+    margin-bottom: 40px;
+
+    font-size: 34px;
+    font-weight: 900;
+}
+
+.policy-container {
+    padding: 55px;
+
+    background: #D6DFE5;
+}
+
+.policy {
+    margin-bottom: 30px;
+}
+
+.policy-subheading {
+    margin-bottom: 8px;
+
+    font-size: 24px;
+    font-weight: 400;
+}
